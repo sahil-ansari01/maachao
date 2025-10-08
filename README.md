@@ -5,8 +5,8 @@ A responsive Next.js single-page UI implementing a food/cake delivery home scree
 ## Getting Started
 
 ```bash
-pnpm install
-pnpm dev
+npm install
+npm dev
 ```
 
 Then open `http://localhost:3000`.
